@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DollarConverter</string>
+    <string name="usd_enter_dollar">USD (Enter Dollar $)</string>
+    <string name="dollar_to_inr">DOLLAR TO INR</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+</resources>
